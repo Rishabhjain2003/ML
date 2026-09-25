@@ -1,0 +1,10 @@
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+rank-bm25==0.2.2
+sentence-transformers==6.1.0
+torch==2.14.0
+jellyfish==1.2.1
+tqdm

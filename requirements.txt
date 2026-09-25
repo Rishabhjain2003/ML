@@ -1,0 +1,7 @@
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+jellyfish==1.2.1
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+tqdm==4.70.1
